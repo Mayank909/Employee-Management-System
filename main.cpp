@@ -26,7 +26,7 @@ class employee
          employee()
     {
         con=mysql_init(0);
-        con=mysql_real_connect(con,"localhost","user","user","youtube",0,NULL,0);
+        con=mysql_real_connect(con,"localhost","user","user","employee_data",0,NULL,0);
         if(con)
             cout<<"connect";
         else
