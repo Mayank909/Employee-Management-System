@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1557157588 source:f:\all contect no\aim\empl\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<mysql.h>
+	<sstream>
+	<conio.h>
+	<stdio.h>
+
+1476096933 c:\program files\codeblocks\mingw\include\mysqlheaders\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files\codeblocks\mingw\include\mysqlheaders\mysql_com.h
+
+1476096972 c:\program files\codeblocks\mingw\include\mysqlheaders\mysql_time.h
+
+1476096983 c:\program files\codeblocks\mingw\include\mysqlheaders\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files\codeblocks\mingw\include\mysqlheaders\typelib.h
+
+1476097168 c:\program files\codeblocks\mingw\include\mysqlheaders\my_list.h
+
+1476097177 c:\program files\codeblocks\mingw\include\mysqlheaders\my_alloc.h
+
+1646582767 source:f:\games\all contect no\aim\empl\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<mysql.h>
+	<sstream>
+	<conio.h>
+	<stdio.h>
+
