@@ -10,5 +10,14 @@ This is a Employee Management System project using C and C++, SQL and XAMPP Serv
 
 
 
-
+## Welcome Page
 ![Employee Management System](https://github.com/Mayank909/Employee-Management-System/blob/main/ScreenShots/Employee%20front%20page.PNG "Employee Management System").
+
+## User Login
+![Employee Management System](https://github.com/Mayank909/Employee-Management-System/blob/main/ScreenShots/Userloged.PNG "Employee Management System").
+
+## Admin Login
+![Employee Management System](https://github.com/Mayank909/Employee-Management-System/blob/main/ScreenShots/admin.PNG "Employee Management System").
+
+## Employee Registration
+![Employee Management System](https://github.com/Mayank909/Employee-Management-System/blob/main/ScreenShots/Empreg.PNG "Employee Management System").
