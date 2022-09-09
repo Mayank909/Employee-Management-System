@@ -7,3 +7,8 @@ This is a Employee Management System project using C and C++, SQL and XAMPP Serv
 * Easy retrieval of employee information.
 * Ability to sort employee queries by the department.
 * Remove details of employees no longer working in the organization.
+
+
+
+
+![Employee Management System](https://github.com/Mayank909/Employee-Management-System/blob/main/ScreenShots/Employee%20front%20page.PNG "Employee Management System").
